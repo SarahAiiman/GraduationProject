@@ -1,0 +1,36 @@
+html , body {
+    height: 100vh;
+    background-image: url(../assets/bg2.jpg);
+}
+
+.Nav-bar {
+    background-color: #C99;
+}
+
+.collapse li a {
+    color: #000000;
+    font-size: 20px;
+    position: sticky;
+    position: sticky;
+}
+
+.collapse li a:hover {
+    color: #09C;
+}
+
+.container .row {
+    height: 75vh;
+}
+.container .row img {
+    height: 75vh;
+}
+
+.News h1 {
+    color: #06C;
+    font-size: 50px;
+}
+
+.News .Layout-image img {
+    height: 100%;
+    width: 100%;
+}
